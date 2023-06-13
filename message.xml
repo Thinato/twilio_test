@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say language="pt-BR" voice="Polly.Camila">Olá é da locadora de veículos?</Say>
+    <Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
 </Response>
